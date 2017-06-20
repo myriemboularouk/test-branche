@@ -1,6 +1,6 @@
 # test-branche
 branche developpement
-et aussi
+et autre
 
 on essaie les branches sous github
 
